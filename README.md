@@ -1,3 +1,7 @@
+# Rpc methods
+![image](https://github.com/minhthuong031103/OpenEms-Docs/assets/101078033/f3bbdbd9-97a4-4a13-8ee8-e5b0800b1883)
+
+
 # Port collection
 ![image](https://github.com/minhthuong031103/OpenEms-Docs/assets/101078033/6cf4a67f-0987-4fea-a07f-404d2227beee)
 
