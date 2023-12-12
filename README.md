@@ -1,3 +1,7 @@
+# Port collection
+![image](https://github.com/minhthuong031103/OpenEms-Docs/assets/101078033/6cf4a67f-0987-4fea-a07f-404d2227beee)
+
+
 # Edge Bnd Config
 ![image](https://github.com/minhthuong031103/OpenEms-Docs/assets/101078033/993e8787-f06d-421a-9129-6ee7da737479)
 
@@ -108,6 +112,10 @@ Tương tự ta cũng có Subscribe Edges
 
 
 **To unsubscribe from channels, a new subscribeChannels request has to be sent with an empty list of channels.**
+
+#### Flow 
+![image](https://github.com/minhthuong031103/OpenEms-Docs/assets/101078033/9d56e77b-ff74-47b0-b371-5e72145ceaf9)
+
 
 ### 2.3) Get Edges Detail ( Edge Rpc )
 ![image](https://github.com/minhthuong031103/OpenEms-Docs/assets/101078033/d25e9a01-4ec4-4e0c-a276-cce3c088f560)
